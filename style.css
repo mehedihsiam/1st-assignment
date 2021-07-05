@@ -149,3 +149,24 @@ body{
     margin: 30px 15px auto 15px;
 }
 /*--Our Recipies end--*/
+
+/*--social result start--*/
+
+.social-result{
+    width: 80%;
+    height: 200px;
+    margin: 10% 10%;
+    border-radius: 30px;
+    box-shadow: 5px 5px 40px 5px black;
+    display: flex;
+}
+
+.results{
+    width: 33.33%;
+    text-align: center;
+}
+
+.results h1{
+    margin-top: 65px;
+}
+/*--social result end--*/
