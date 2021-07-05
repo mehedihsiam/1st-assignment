@@ -170,3 +170,36 @@ body{
     margin-top: 65px;
 }
 /*--social result end--*/
+
+/*--footer--*/
+.footer{
+    width: 100%;
+    height: 170px;
+    background-color: rgb(12, 10, 10);
+    text-align: center;
+    color: white;
+}
+
+.f-name{
+    width: 100%;
+    height: 50%;
+    display: inline-block;
+}
+
+.f-name h2{
+    margin-top: 25px;
+}
+
+.dfr-color-2{
+    color: #359ed6;
+}
+
+.copyright{
+    width: 100%;
+    height: 50%;
+    font-size: 10pt;
+}
+
+.copyright p{
+    margin-top: 20px;
+}
