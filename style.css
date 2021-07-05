@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar{
+    width: 100%;
+}
+
+#menu{
+    
+}
+
+#menu ul li{
+    float: left;
+}
