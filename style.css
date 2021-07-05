@@ -135,7 +135,7 @@ body{
     height: 500px;
     margin: auto 3% auto 3%;
     border-radius: 20px;
-    box-shadow: 5px 10px 10px black;
+    box-shadow: 5px 10px 10px rgb(185, 184, 184);
 }
 
 .recipy-item img{
@@ -157,7 +157,7 @@ body{
     height: 200px;
     margin: 10% 10%;
     border-radius: 30px;
-    box-shadow: 5px 5px 40px 5px black;
+    box-shadow: 5px 5px 40px 5px rgb(201, 199, 199);
     display: flex;
 }
 
